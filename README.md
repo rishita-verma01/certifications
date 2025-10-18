@@ -5,13 +5,6 @@ You can click the verification links to view each credential.
 Also included are the PDF files of the certificates, grades, and skills/topics for each.
 
 ---
-
-## 📋 Table of Contents
-
-1. [Certifications](#certifications)  
-2. [Skills Gained](#skills-gained)  
-3. [Repository Structure](#repository-structure)
-
 ---
 
 ## 📜 Certifications
