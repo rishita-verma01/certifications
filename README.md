@@ -1,11 +1,7 @@
 # 🎓 Certifications 
 
 This repository contains all my **certificates**.  
-You can click the verification links to view each credential.  
-Also included are the PDF files of the certificates, grades, and skills/topics for each.
-
----
----
+You can click the verification links to view each credential.
 
 ## 📜 Certifications
 
